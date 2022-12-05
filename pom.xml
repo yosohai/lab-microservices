@@ -16,8 +16,8 @@
         <version>2.6.11</version>
     </parent>
     <modules>
-        <module>lab-ms-nacos</module>
-        <module>lab-ms-nacos-client</module>
+        <module>lab-ms-nacos-consumer</module>
+        <module>lab-ms-nacos-provider</module>
     </modules>
 
     <properties>
